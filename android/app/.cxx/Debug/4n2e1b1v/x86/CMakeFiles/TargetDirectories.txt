@@ -1,0 +1,2 @@
+D:/flutter navttc/habitoria_app/android/app/.cxx/Debug/4n2e1b1v/x86/CMakeFiles/edit_cache.dir
+D:/flutter navttc/habitoria_app/android/app/.cxx/Debug/4n2e1b1v/x86/CMakeFiles/rebuild_cache.dir

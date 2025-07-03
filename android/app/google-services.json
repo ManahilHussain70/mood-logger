@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366412843128",
+    "project_id": "habitvibe-2k25",
+    "storage_bucket": "habitvibe-2k25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366412843128:android:170482ab0c351a0d09458d",
+        "android_client_info": {
+          "package_name": "com.example.habitoria_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ChljJ4_RCqBjAMVbdDiG5E8TeXBfSWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
